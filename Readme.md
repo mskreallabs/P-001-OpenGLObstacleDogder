@@ -534,7 +534,7 @@ See the LICENSE file for more information.
 
 
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP565\_zjhw6gp1pAS2L1HmFaTd\_7mncAVlx1-8PXaCj4tRI8jvJBNY7YmO5c0LbzGnDWXgYkPP5nj6Qn0KwXf6h6Vy5oUApkrRNQDu0y7jyJg5pCvS6rLJH0BxIPq4FxMyUJpeZS3rNbPPOXt686Fe\_k3qQYan-zMcLQXQ4naKvwUubpLkwaVU9GKN6yYh/s320/logo.webp" width="120"/>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmyIpCDqMpUsV73XJ-4907Ul25DNgtrHHr2kppXwa7cQ89FaAcFBfvLBqWxbThGmtDw8RV2LKe7dthjEQeyyd8bNPg2W0LuG8fQ0guLJOlgrW1pbuBkRCiZ8YVaddYlB5FDZck8jc5ZSN341E70zr0EPvhSJrwNSS0O6qupsCQvId9gE59hgW8Sxf06vRb/s320/logo.png" width="120"/>
 
 
 
